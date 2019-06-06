@@ -6,3 +6,4 @@ Including a hands-on jupyter notebook with exercises on distance estimation from
 These were given on 4th of June 2019 in l'Aquila [Gaia summerschool](https://www.cifs-isss.org/)
 
 [[https://github.com/jan-rybizki/Gaia_Summerschool_2019/blob/master/notebook/pics/spatial_correlation.png|alt=octocat]]
+![](notebook/pics/spatial_correlation.png)
