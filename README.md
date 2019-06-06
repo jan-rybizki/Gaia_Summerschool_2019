@@ -6,7 +6,7 @@
 
  - Including a hands-on jupyter notebook with exercises on distance estimation from parallaxes including [Bailer-Jones+2018](http://adsabs.harvard.edu/abs/2018AJ....156...58B) working example where we extract the prior from [GDR2mock](http://adsabs.harvard.edu/abs/2018PASP..130g4101R) and inferences of cluster distances.
 
-These were given on 4th of June 2019 in l'Aquila [Gaia summerschool](https://www.cifs-isss.org/)
+These were given on 4th of June 2019 in l'Aquila [Gaia summerschool](https://www.cifs-isss.org/).
 
-A short appetizer on the dependence of cluster distance on the spatial correlation of the parallax measurement:
 ![](notebook/pics/spatial_correlation.png)
+A short appetizer on the dependence of cluster distance on the spatial correlation of the parallax measurement.
